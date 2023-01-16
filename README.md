@@ -1,2 +1,2 @@
 # Convolutional-Neural-Networks
-Reconnaissance d'écritures manuscrites et d'images
+Reconnaissance  d'images
